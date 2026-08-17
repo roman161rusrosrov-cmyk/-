@@ -4,8 +4,8 @@
 
 ## Готовый сайт
 
+- [GitHub Pages](https://roman161rusrosrov-cmyk.github.io/-/)
 - [Основная версия](https://undead-race.chenneocosiuage10joz.chatgpt.site)
-- GitHub Pages: будет опубликован из ветки `main`
 
 ## Что внутри
 
